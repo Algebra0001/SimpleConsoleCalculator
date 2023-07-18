@@ -1,0 +1,60 @@
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.dll
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.dll
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+C:\Users\hp Envy\source\repos\SQ014\Solution to Tasks\SimpleCalculator\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\WalYus\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\Tasks\week-1-Algebra0001\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.dll
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+C:\Users\decadev\Desktop\All\Tasks\wk1_Task\SA_SimpleCalculator\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll
